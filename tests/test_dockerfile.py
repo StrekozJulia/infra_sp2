@@ -1,7 +1,7 @@
 import os
 import re
 
-from django.conf import settings
+from api_yamdb.api_yamdb import settings
 
 
 class TestDockerfile:
